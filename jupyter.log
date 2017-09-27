@@ -1,0 +1,37 @@
+[I 15:27:41.858 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.2.7
+[I 15:27:41.862 NotebookApp] Serving notebooks from local directory: /Users/satoem/workspace/notes
+[I 15:27:41.862 NotebookApp] 0 active kernels 
+[I 15:27:41.862 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=b128d2baa507abce272b3926c8a0a561929e962820b7dd6e
+[I 15:27:41.862 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:27:41.863 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=b128d2baa507abce272b3926c8a0a561929e962820b7dd6e
+[I 15:27:42.185 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 15:28:45.322 NotebookApp] Creating new notebook in 
+[I 15:28:46.285 NotebookApp] Kernel started: c3822e2b-5962-4ff2-b286-7fdf3d8e8d71
+[I 15:30:46.240 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:32:44.585 NotebookApp] Kernel interrupted: c3822e2b-5962-4ff2-b286-7fdf3d8e8d71
+[I 15:32:46.236 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:32:57.812 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:34:03.111 NotebookApp] Kernel shutdown: c3822e2b-5962-4ff2-b286-7fdf3d8e8d71
+[W 15:34:03.114 NotebookApp] Session not found: session_id='72544e6b-0ae1-486b-ae0e-dc8d99b914cd'
+[W 15:34:03.114 NotebookApp] 404 DELETE /api/sessions/72544e6b-0ae1-486b-ae0e-dc8d99b914cd (::1) 1.06ms referer=http://localhost:8888/tree
+[W 15:34:03.115 NotebookApp] Session not found: session_id='72544e6b-0ae1-486b-ae0e-dc8d99b914cd'
+[W 15:34:03.115 NotebookApp] 404 DELETE /api/sessions/72544e6b-0ae1-486b-ae0e-dc8d99b914cd (::1) 1.00ms referer=http://localhost:8888/tree
+[W 15:34:03.116 NotebookApp] Session not found: session_id='72544e6b-0ae1-486b-ae0e-dc8d99b914cd'
+[W 15:34:03.117 NotebookApp] 404 DELETE /api/sessions/72544e6b-0ae1-486b-ae0e-dc8d99b914cd (::1) 0.75ms referer=http://localhost:8888/tree
+[I 15:34:05.548 NotebookApp] Kernel started: 9ea930b3-2597-4102-94b8-9983914406c0
+[I 15:36:05.552 NotebookApp] Saving file at /Debug_Test.ipynb
+[I 15:38:05.544 NotebookApp] Saving file at /Debug_Test.ipynb
+[I 15:38:51.033 NotebookApp] Saving file at /Debug_Test.ipynb
+[I 15:39:03.153 NotebookApp] Kernel shutdown: 9ea930b3-2597-4102-94b8-9983914406c0
+[W 15:39:12.759 NotebookApp] 404 GET /favicon.ico (::1) 7.72ms referer=http://localhost:8888/view/jupyter.log
+[I 15:40:05.393 NotebookApp] Creating new notebook in 
+[I 15:40:06.220 NotebookApp] Kernel started: 8c35509a-b6a3-4004-a815-c61b4a83fba7
+[I 15:42:06.220 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:42:31.563 NotebookApp] Kernel shutdown: 8c35509a-b6a3-4004-a815-c61b4a83fba7
+[I 15:42:40.498 NotebookApp] Kernel started: 438577ef-08bc-4f82-be42-e7739991e75e
+[I 15:42:49.589 NotebookApp] Kernel shutdown: 438577ef-08bc-4f82-be42-e7739991e75e
+[W 15:42:49.591 NotebookApp] delete /Untitled.ipynb
