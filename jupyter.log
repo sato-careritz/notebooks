@@ -35,3 +35,27 @@
 [I 15:42:40.498 NotebookApp] Kernel started: 438577ef-08bc-4f82-be42-e7739991e75e
 [I 15:42:49.589 NotebookApp] Kernel shutdown: 438577ef-08bc-4f82-be42-e7739991e75e
 [W 15:42:49.591 NotebookApp] delete /Untitled.ipynb
+[I 16:36:34.019 NotebookApp] Creating new notebook in 
+[I 16:36:34.788 NotebookApp] Kernel started: 63eb2d0c-8015-4807-ac8b-119a8f8fcdcc
+[I 16:38:34.781 NotebookApp] Saving file at /Class_Test.ipynb
+[I 16:40:34.775 NotebookApp] Saving file at /Class_Test.ipynb
+[I 16:42:34.766 NotebookApp] Saving file at /Class_Test.ipynb
+[I 16:44:34.767 NotebookApp] Saving file at /Class_Test.ipynb
+[I 16:45:01.290 NotebookApp] Saving file at /Class_Test.ipynb
+[I 16:45:05.812 NotebookApp] Kernel shutdown: 63eb2d0c-8015-4807-ac8b-119a8f8fcdcc
+[I 17:03:01.192 NotebookApp] Creating new notebook in 
+[I 17:03:01.881 NotebookApp] Kernel started: d6602c4a-d228-4dde-b0e9-6e6c2aebd258
+[I 17:05:01.878 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:07:01.877 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:09:01.870 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:17:01.852 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:19:01.851 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:21:01.847 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:23:01.842 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:25:01.839 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:27:01.833 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:29:01.826 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:31:01.823 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:33:01.819 NotebookApp] Saving file at /Collections_Test.ipynb
+[I 17:38:02.225 NotebookApp] Kernel shutdown: d6602c4a-d228-4dde-b0e9-6e6c2aebd258
+[W 17:38:09.665 NotebookApp] delete /Collections_Test.ipynb
